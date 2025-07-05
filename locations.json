@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Marine Drive",
+    "location": "Ernakulam",
+    "type": "Park",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Moderate in evenings",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Mangalavanam Bird Sanctuary",
+    "location": "Ernakulam",
+    "type": "Nature",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Low",
+    "weather_warning": "None"
+  },
+  {
+    "name": "LuLu Mall",
+    "location": "Edappally",
+    "type": "Mall",
+    "quiet": false,
+    "low_crowd": false,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "Very High on weekends",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Durbar Hall Art Gallery",
+    "location": "Kacheripady",
+    "type": "Gallery",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Closed",
+    "crowd_level": "Low",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Fort Kochi Beach",
+    "location": "Fort Kochi",
+    "type": "Beach",
+    "quiet": false,
+    "low_crowd": false,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "High in evenings",
+    "weather_warning": "Heat Alert"
+  },
+  {
+    "name": "Jew Town",
+    "location": "Mattancherry",
+    "type": "Market",
+    "quiet": false,
+    "low_crowd": false,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "Crowded during tourist season",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Hill Palace Museum",
+    "location": "Tripunithura",
+    "type": "Museum",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Mildly crowded on weekends",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Subhash Park",
+    "location": "Near Marine Drive",
+    "type": "Park",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Low in mornings",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Kerala Folklore Museum",
+    "location": "Thevara",
+    "type": "Museum",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Moderate",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Wonderla Amusement Park",
+    "location": "Pallikkara",
+    "type": "Amusement Park",
+    "quiet": false,
+    "low_crowd": false,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "Very High",
+    "weather_warning": "Rain Warning"
+  },
+  {
+    "name": "Bolgatty Palace",
+    "location": "Bolgatty Island",
+    "type": "Palace",
+    "quiet": true,
+    "low_crowd": false,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "Moderate",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Kochi Metro Station - MG Road",
+    "location": "MG Road",
+    "type": "Transit",
+    "quiet": false,
+    "low_crowd": false,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "High during peak hours",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Mattancherry Palace",
+    "location": "Mattancherry",
+    "type": "Heritage Site",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Closed",
+    "crowd_level": "Low",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Rainbow Bridge",
+    "location": "Marine Drive",
+    "type": "Viewpoint",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Low in early mornings",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Bharat Tourist Home Cafe",
+    "location": "Ernakulam South",
+    "type": "Cafe",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Low",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Children’s Park",
+    "location": "Park Avenue Road",
+    "type": "Play Area",
+    "quiet": false,
+    "low_crowd": true,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "Moderate",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Changampuzha Park",
+    "location": "Edappally",
+    "type": "Cultural Park",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Low",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Ernakulam Public Library",
+    "location": "Convent Road",
+    "type": "Library",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Low",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Shenoys Theatre",
+    "location": "MG Road",
+    "type": "Theatre",
+    "quiet": false,
+    "low_crowd": false,
+    "sensory_friendly": false,
+    "status": "Open",
+    "crowd_level": "High during weekends",
+    "weather_warning": "None"
+  },
+  {
+    "name": "Durbar Hall Ground",
+    "location": "Ernakulam",
+    "type": "Open Ground",
+    "quiet": true,
+    "low_crowd": true,
+    "sensory_friendly": true,
+    "status": "Open",
+    "crowd_level": "Moderate",
+    "weather_warning": "None"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Fort Kochi Public Restroom",
+    "type": "restroom",
+    "lat": 9.9675,
+    "lng": 76.2420,
+    "distance": "400 m"
+  },
+  {
+    "name": "Aster Medcity",
+    "type": "hospital",
+    "lat": 10.0595,
+    "lng": 76.2964,
+    "distance": "2.1 km"
+  },
+  {
+    "name": "Tripunithura Govt Hospital",
+    "type": "hospital",
+    "lat": 9.9480,
+    "lng": 76.3620,
+    "distance": "1.6 km"
+  },
+  {
+    "name": "Edappally Metro Washroom",
+    "type": "restroom",
+    "lat": 10.0260,
+    "lng": 76.3089,
+    "distance": "350 m"
+  },
+  {
+    "name": "PVS Memorial Hospital",
+    "type": "hospital",
+    "lat": 9.9751,
+    "lng": 76.2996,
+    "distance": "1.8 km"
+  },
+  {
+    "name": "Marine Drive Public Restroom",
+    "type": "restroom",
+    "lat": 9.9833,
+    "lng": 76.2753,
+    "distance": "750 m"
+  },
+  {
+    "name": "Vyttila Mobility Hub Washroom",
+    "type": "restroom",
+    "lat": 9.9632,
+    "lng": 76.3125,
+    "distance": "600 m"
+  },
+  {
+    "name": "Rajagiri Hospital",
+    "type": "hospital",
+    "lat": 10.0505,
+    "lng": 76.3552,
+    "distance": "2.5 km"
+  }
+]
