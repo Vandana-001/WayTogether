@@ -86,14 +86,21 @@
             </div>
 
             <!-- Map Tab -->
-            <div id="map-tab" class="tab-pane">
-                <section class="map-section">
-                    <div class="map-container">
-                        <h3 class="section-title">Interactive Map</h3>
-                        <div id="map" class="map"></div>
-                    </div>
-                </section>
+            <!-- 🆕 Inside Map Tab -->
+<div id="map-tab" class="tab-pane">
+    <section class="map-section">
+        <div class="map-container">
+            <h3 class="section-title">Interactive Map</h3>
+            <div style="margin-bottom: 1rem;">
+                <input type="text" id="mapSearchInput" class="search-input" placeholder="🔍 Search any place on Earth...">
+                <button id="mapSearchBtn" class="btn-primary">Search</button>
+                <button id="locateMeBtn" class="btn-primary">📍 Use My Location</button>
             </div>
+            <div id="map" class="map"></div>
+        </div>
+    </section>
+</div>
+
 
             <!-- Places Tab -->
             <div id="places-tab" class="tab-pane">
